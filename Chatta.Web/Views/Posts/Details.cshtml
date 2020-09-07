@@ -1,0 +1,33 @@
+﻿@model Chatta.Core.Entities.Post
+
+@{
+    ViewData["Title"] = "Details";
+}
+
+<h1>Details</h1>
+
+<div>
+    <h4>Post</h4>
+    <hr />
+    <dl class="row">
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.Content)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.Content)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.DateTimePosted)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.DateTimePosted)
+        </dd>
+    </dl>
+</div>
+<div>
+    <a asp-action="Like" asp-route-id="@Model.Id">Edit</a> |
+    <form asp-action="Comment" asp-route-id="@Model.Id">
+        <button type="submit" class="btn btn-info">Comment</button>
+    </form> |
+    <a asp-action="Index">Back to List</a>
+</div>

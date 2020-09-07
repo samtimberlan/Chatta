@@ -1,0 +1,15 @@
+C:\Users\timud\source\repos\Notta\Notta.Infrastructure\bin\Debug\netcoreapp3.1\Notta.Infrastructure.deps.json
+C:\Users\timud\source\repos\Notta\Notta.Infrastructure\bin\Debug\netcoreapp3.1\Notta.Infrastructure.dll
+C:\Users\timud\source\repos\Notta\Notta.Infrastructure\obj\Debug\netcoreapp3.1\Notta.Infrastructure.csprojAssemblyReference.cache
+C:\Users\timud\source\repos\Notta\Notta.Infrastructure\obj\Debug\netcoreapp3.1\Notta.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\timud\source\repos\Notta\Notta.Infrastructure\obj\Debug\netcoreapp3.1\Notta.Infrastructure.AssemblyInfo.cs
+C:\Users\timud\source\repos\Notta\Notta.Infrastructure\bin\Debug\netcoreapp3.1\Notta.Infrastructure.runtimeconfig.json
+C:\Users\timud\source\repos\Notta\Notta.Infrastructure\bin\Debug\netcoreapp3.1\Notta.Infrastructure.runtimeconfig.dev.json
+C:\Users\timud\source\repos\Notta\Notta.Infrastructure\bin\Debug\netcoreapp3.1\Notta.Infrastructure.pdb
+C:\Users\timud\source\repos\Notta\Notta.Infrastructure\obj\Debug\netcoreapp3.1\Notta.Infrastructure.dll
+C:\Users\timud\source\repos\Notta\Notta.Infrastructure\obj\Debug\netcoreapp3.1\Notta.Infrastructure.pdb
+C:\Users\timud\source\repos\Notta\Notta.Infrastructure\obj\Debug\netcoreapp3.1\Notta.Infrastructure.genruntimeconfig.cache
+C:\Users\timud\source\repos\Notta\Notta.Infrastructure\bin\Debug\netcoreapp3.1\Notta.Core.dll
+C:\Users\timud\source\repos\Notta\Notta.Infrastructure\bin\Debug\netcoreapp3.1\Notta.Core.pdb
+C:\Users\timud\source\repos\Notta\Notta.Infrastructure\obj\Debug\netcoreapp3.1\Notta.Infrastructure.csproj.CopyComplete
+C:\Users\timud\source\repos\Notta\Notta.Infrastructure\obj\Debug\netcoreapp3.1\Notta.Infrastructure.csproj.CoreCompileInputs.cache

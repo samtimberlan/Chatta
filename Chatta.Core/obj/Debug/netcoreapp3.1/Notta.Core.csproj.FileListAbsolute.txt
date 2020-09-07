@@ -1,0 +1,9 @@
+C:\Users\timud\source\repos\Notta\Notta.Core\bin\Debug\netcoreapp3.1\Notta.Core.deps.json
+C:\Users\timud\source\repos\Notta\Notta.Core\bin\Debug\netcoreapp3.1\Notta.Core.dll
+C:\Users\timud\source\repos\Notta\Notta.Core\bin\Debug\netcoreapp3.1\Notta.Core.pdb
+C:\Users\timud\source\repos\Notta\Notta.Core\obj\Debug\netcoreapp3.1\Notta.Core.csprojAssemblyReference.cache
+C:\Users\timud\source\repos\Notta\Notta.Core\obj\Debug\netcoreapp3.1\Notta.Core.csproj.CoreCompileInputs.cache
+C:\Users\timud\source\repos\Notta\Notta.Core\obj\Debug\netcoreapp3.1\Notta.Core.AssemblyInfoInputs.cache
+C:\Users\timud\source\repos\Notta\Notta.Core\obj\Debug\netcoreapp3.1\Notta.Core.AssemblyInfo.cs
+C:\Users\timud\source\repos\Notta\Notta.Core\obj\Debug\netcoreapp3.1\Notta.Core.dll
+C:\Users\timud\source\repos\Notta\Notta.Core\obj\Debug\netcoreapp3.1\Notta.Core.pdb
